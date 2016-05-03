@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/CraftTogether/Discussion-Issues.png?label=ready&title=Ready)](https://waffle.io/CraftTogether/Discussion-Issues)
 #Discussions and Issues
 
 This is a place where we as a community can dissuss features/future directions for the server and post tasks and issues that need to be solved.
